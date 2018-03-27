@@ -1,0 +1,14 @@
+{
+    "Properties": null,
+    "PropertiesSchemaFile": "schema.json",
+    "DHTConfig": {
+            "HashType": "sha2-256"
+    },
+    "Zomes": [
+        {
+            "Name": "base",
+            "CodeFile": "base.js",
+            "RibosomeType": "js"
+        }
+    ]
+}
